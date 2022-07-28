@@ -1,0 +1,251 @@
+body {
+    font-family: 'koulen';
+    color: white;
+    background-color: black;
+    margin: 0;
+}
+header {
+    width: 100%;
+    background-color: white;
+    font-size: 30px;
+}
+img {
+    box-shadow: 5px 2.5px 2.5px rgba(255, 255, 255, 0.3);
+}
+main{
+    width: 70%;
+    margin: 0 auto;
+}
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    text-align: center;
+}
+
+#insta {
+    color: white;
+    font-size: 20px;
+}
+#arctic {
+    text-align: center;
+    color: black;
+}
+
+#album {
+    margin-top: 100px;
+    display: block;
+}
+
+
+#hist {
+    text-align: center;
+    margin-top: 100px;
+}
+
+
+#text {
+    width: 500px;
+    text-align: justify;
+    margin: auto;
+}
+
+#am{
+    height: 300px;
+    display: none;
+}
+#am.active{
+    display: flex;
+}
+#t1{
+    display: none;
+}
+#t1.active{
+    display: block; 
+}
+
+#arc1{
+    float: left;
+}
+
+#pam {
+    text-align: justify;
+    width: 60%;
+    height: 180px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+}
+
+#i{
+    height: 20px;
+    padding: 5px;
+}
+
+#favourite{
+    height: 300px;
+    display: none;
+}
+#favourite img{
+    float: left;
+
+}
+#favourite.active{
+    display: flex;
+}
+#t2{
+    display: none;
+}
+#t2.active{
+    display: block;
+}
+#pfavourite{
+    text-align: justify;
+    width: 60%;
+    height: 160px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+}
+#whatever{
+    display: none;
+}
+#whatever.active{
+    display: flex;
+}
+#t3{
+    display: none;
+}
+#t3.active{
+    display: block;
+}
+#whatever img{
+    float: left;
+}
+#pwhatever{
+    text-align: justify;
+    width: 60%;
+    height: 180px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+}
+#humbug{
+    display: none;
+}
+#humbug.active{
+    display: flex;
+}
+#t4{
+    display: none;
+}
+#t4.active{
+    display: block;
+}
+#humbug img{
+    float: left;
+}
+#phumbug{
+    text-align: justify;
+    width: 60%;
+    height: 180px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+}
+#tranquility{
+    display: none;
+}
+#tranquility.active{
+    display: flex;
+}
+#t5{
+    display: none;
+}
+#t5.active{
+    display: block;
+}
+#tranquility img{
+    float: left;
+
+}
+#ptranquility{
+    text-align: justify;
+    width: 60%;
+    height: 210px;
+    background-color: white;
+    color: black;
+    padding: 20px;
+    border-radius: 20px;
+    float: right;
+}
+
+#vb{
+    background-color: black;
+    color: #028A1A;
+    cursor: pointer;
+    border: 2px solid #028A1A;
+    font-family: 'Koulen';
+    font-size: 20px;
+    padding: 10px;
+}
+#b{
+    background-color: black;
+    color: #028A1A;
+    cursor: pointer;
+    border: 2px solid #028A1A;
+    font-family: 'Koulen';
+    margin: 10px;
+
+}
+#discos{
+   text-align: center;
+   visibility: hidden;
+}
+#discos.active{
+    visibility: visible;
+}
+#youtube{
+    color: red;
+}
+#spotify{
+    color: #028A1A;
+    padding-left: 1px;
+}
+
+.icons1{
+    text-decoration: none;
+    list-style: none;
+    width: 10%;
+    padding-top: 40px;
+}
+.icons2{
+    text-decoration: none;
+    list-style: none;
+    width: 10%;
+    padding-top: 40px;
+}.icons3{
+    text-decoration: none;
+    list-style: none;
+    width: 10%;
+    padding-top: 40px;
+}.icons4{
+    text-decoration: none;
+    list-style: none;
+    width: 10%;
+    padding-top: 40px;
+}.icons5{
+    text-decoration: none;
+    list-style: none;
+    width: 10%;
+    padding-top: 40px;
+}
